@@ -5,10 +5,10 @@ class Database {
 	public static $db;
 	public static $con;
 	function Database(){
-		$this->user="root";
-		$this->pass="";
-		$this->host="localhost:3306";
-		$this->ddbb="hotel";
+		$this->user="yn4xl2beg91d63t5";
+		$this->pass="k1959p950xrsfi4o";
+		$this->host="uyu7j8yohcwo35j3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+		$this->ddbb="e53sx46h0evt8xgw";
 	} 
 
 
